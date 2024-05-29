@@ -1,7 +1,7 @@
 # **Guesstimation Gaming Application**
-## *Python* O *MySQL*
+## *Python* ~ *MySQL*
 
-The application offers two games to choose to play from: Hangman and  Photographic Memory Test
+The Pycharm application offers two games to choose to play from: Hangman and  Photographic Memory Test
 
 
 ## **Application features**
@@ -27,3 +27,28 @@ The application was developed using PyCharm and MySQL was integrated to store us
 ![alt text](Hintpage-hangman.png)     ![alt text](Hintpage.png) 
 
 ![alt text](answerpage.png)     ![alt text](hangmanlostpage.png)        ![alt text](win-screen.png)
+
+
+
+## Implementation
+The application requires two primary python files: Main_program.py and hangman_words.py
+The second file contains the database for the hangman game
+-Ensure MySQL is properly installed and integrated with Python
+-Ensure all the required packages are installed properly
+
+
+
+## CONOPS: Concept of Operations
+
+- *The flowchart for the whole application is given below* <br>
+![alt text](Main_flowchart.png)
+
+- *Hangman CONOPS*  <br>
+![alt text](Hangman_flowchart.png)
+
+
+- *Memory Game CONOPS*  <br>
+![alt text](Memorygame_flowchart.png) 
+
+
+
